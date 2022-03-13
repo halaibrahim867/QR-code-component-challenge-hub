@@ -32,3 +32,18 @@ body{
     margin-left: 15px;
     margin-top: 10px;
 }
+.continar .design p {
+    width: 280px;
+}
+.design .bold{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size:20px ;
+    text-align: center;
+}
+.design .light{
+    color: hsl(212, 45%, 89%);
+    font-weight: 400;
+    font-size:14px ;
+    text-align: center;
+}
